@@ -1,0 +1,11 @@
+##Folders
+node_modules
+
+##Files
+yarn-error.log
+
+##Editor Configs
+!.vscode/*
+
+##NPM
+package-lock.json
