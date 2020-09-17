@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-##`Description`
+## `Description`
 Basic project bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to show a component where you can add and remove tags to a tag list.
 
 [Bulma](http://bulma.io/) CSS framework was used to simplify the design
