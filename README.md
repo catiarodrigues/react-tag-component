@@ -1,20 +1,18 @@
-
-
-#H1 React Tag Component
+# React Tag Component
 
 In the project directory, you can run:
 
-##H2`Description`
+##`Description`
 Basic project bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to show a component where you can add and remove tags to a tag list.
 
 [Bulma](http://bulma.io/) CSS framework was used to simplify the design
 
 
-#H3 `Todo`
+### `Todo`
 - [ ] Create Tests
 - [ ] Create NPM package (?)
 
-#H4 `yarn start`
+#### `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
