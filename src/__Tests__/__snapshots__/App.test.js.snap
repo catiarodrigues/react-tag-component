@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> tests renders without errors and match snapshot 1`] = `
+<section
+  className="section"
+>
+  <div
+    className="container"
+  >
+    <h1
+      className="title"
+    >
+      Tag React Component
+    </h1>
+    <h2
+      className="subtitle"
+    >
+      A simple react component where you can add and remove Tags
+    </h2>
+    <TagComponent />
+  </div>
+</section>
+`;

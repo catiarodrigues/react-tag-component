@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TagComponent /> tests renders without errors and match snapshot 1`] = `
+<Fragment>
+  <div
+    className="field"
+  >
+    <label
+      className="label"
+    >
+      Tags:
+    </label>
+    <input
+      className="input"
+      onKeyDown={[Function]}
+      placeholder="your tag"
+      type="text"
+    />
+    <p
+      className="help"
+    >
+      Add a tag by pressing enter
+    </p>
+  </div>
+  <div
+    className="tags"
+  />
+</Fragment>
+`;
